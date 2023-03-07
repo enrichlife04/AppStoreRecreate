@@ -1,0 +1,2 @@
+# AppStoreRecreate
+AppStoreの画面をSwiftUIで模倣してみた
